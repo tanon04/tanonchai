@@ -29,7 +29,7 @@ public class Main {
 		String[] sp = tel.split("-");
 		System.out.println("("+sp[0]+")"+sp[1]);
 		
-		
+		//exit function test
 	}
 	
 }
